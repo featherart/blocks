@@ -1,4 +1,4 @@
-These are some interview questions I found online:
+These are some interview questions I found online.
 
 1. Everything in Ruby is an object, right? Explain.
 
@@ -8,6 +8,28 @@ These are some interview questions I found online:
 
 4. What is a Proc?
 
-5. What does self mean?
+5. What is the purpose of "yield"?
 
 6. What is a Lambda expression?
+
+
+
+			Block         	Proc        Lambda
+_________________________________________________
+
+Object ?	false			true		true
+
+Closure?	true			true		true
+
+store as
+variable?	false			true		true
+
+define how?	{}				Proc.new{}	lambda{}
+
+can return?	yes				no          yes
+
+indent?		yes				yes			yes
+
+
+
+
