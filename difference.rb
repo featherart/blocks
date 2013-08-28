@@ -5,8 +5,8 @@
 # However, using lambda {} gives you a proc that checks the number of arguments passed to it. 
 # From ri Kernel#lambda:
 
-# Equivalent to Proc.new, except the resulting Proc objects check the number of 
-# parameters passed when called.
+# Equivalent to Proc.new, except the resulting Proc objects check
+# the number of parameters passed when called.
 
 # An example:
 

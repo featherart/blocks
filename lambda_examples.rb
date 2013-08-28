@@ -36,8 +36,6 @@ end
 
 # what if I want this code bundled up and passed to an object?
 class Person
-	def initialize
-	end
 	def sing(song)
 		song.call
 	end

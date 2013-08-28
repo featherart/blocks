@@ -1,6 +1,4 @@
-Blocks, Procs and Lambdas are basically closures in Ruby.
-
-The analog in JavaScript for a lambda 
+# Blocks, Procs and Lambdas are basically closures in Ruby.
 
 # where would you use this?
 
